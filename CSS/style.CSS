@@ -1,0 +1,132 @@
+body {
+    background-color: black;
+    color: white;
+}
+.asa {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.menu-photo{
+    margin: 0 auto;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bio {
+    font-size: 60pt;
+    font-weight: lighter;
+    font-family: 'Poly', serif;
+}
+.article {
+    color: rgb(151, 148, 148);
+    font-size: 12pt;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    line-height: 1.8; 
+    margin: 0 150px;
+}
+.social-icons {
+    margin: 30px 0;
+}
+.social-icons .twitter {
+    padding: 0 30px;
+}
+.second-section {
+    display: flex;
+    gap: 10%;
+    justify-content: space-between;
+    width: 100%;
+}
+
+/* Styling for second section starts here */
+
+.section-title,
+.section-content {
+    width: 100%;
+}
+.chat-now {
+    align-items: center;
+    gap: 5%;
+    font-weight: lighter;
+    font-family: 'Poly', serif;
+}
+.section3 {
+    text-align: center;
+}
+
+.margin {
+    margin: 5% 0;
+}
+.learn-more {
+    font-size: 20px;
+    font-family: 'Poly', serif;
+    border: 2pt solid wheat;
+    padding: 18pt 40pt;
+    margin: 0 0 60pt 0;
+}
+.article-2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 5%;
+    width: 100%;
+}
+.closing {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.other-sec {
+    background-color: rgb(39, 37, 37);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 150%;
+}
+.image-portfolio {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px ;
+}
+.img-port {
+    width: 290px;
+    height: 290px;
+    object-fit: cover;
+    border-radius: 20%;
+    margin: 30px 30px;
+}
+.profile-img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 30px 30px;
+}
+.text-color {
+    color: wheat;
+    font-family: 'Poly', serif;
+}
+.sub-sec1 {
+    font-size: 35pt;
+}
+.font14 {
+    font-size: 14pt;
+    line-height: 1.5;
+}
+.font20 {
+    font-size: 20pt;
+}
+.href {
+    color: whitesmoke;
+}
+.sub {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.one {
+    margin: 150px 0 25px 0;
+    font-size: 50pt;
+}
